@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PrimerAplicacionAndroid</string>
+
+    <string name="txtSaludo">Hola Kotlin</string>
+    <string name="txtSegundo">Segundo Activity</string>
+    <string name="txtTercero">Tercer Activity</string>
+    <string name="txtNum1">Numero 1</string>
+    <string name="txtNum2">Numero 2</string>
+    <string name="txtResultado">Resultado</string>
+
+    <string name="btnSaludar">Presioname</string>
+    <string name="btnCambiar">Cambiar</string>
+    <string name="btnCambiar2">Cambiar 2</string>
+    <string name="btnSumar">Sumar</string>
+    <string name="btnRestar">Restar</string>
+    <string name="btnSpinner">Spinner</string>
+
+    <string name="rdButton1">Radio 1</string>
+    <string name="rdButton2">Radio 2</string>
+</resources>
